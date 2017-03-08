@@ -12,13 +12,13 @@ pictures, please email me
 </p>
 
 <p align="right">
-<a href="photos2.html">MORE&gt;</a>
+<a href="/resources/photos2.html">MORE&gt;</a>
 </p>
 
 <center>
 
 <p>
-<img border="1" bcolor="black" src="photos/bushband.jpg" />
+<img border="1" bcolor="black" src="/photos/bushband.jpg" />
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Mike Ryan, Tony Hale, Peter Walton, Bernd Unstaedt, Ulf Schmidt, Steve McGlone
 </p>
 
 <p>
-<img border="1" bcolor="black" src="photos/hamilton_county.jpg" />
+<img border="1" bcolor="black" src="/photos/hamilton_county.jpg" />
 </p>
 
 <p>
@@ -43,7 +43,7 @@ Hamilton County Bluegrass, appearing in the "Highway of Legends" concert tour, 2
 </p>
 
 <p>
-<img border="1" bcolor="black" src="photos/dave_and_dave.jpg" />
+<img border="1" bcolor="black" src="/photos/dave_and_dave.jpg" />
 </p>
 
 <p>
@@ -56,7 +56,7 @@ Te Rapa, Easter 1967.
 </p>
 
 <p>
-<img border="1" bcolor="black" src="photos/dave.jpg" />
+<img border="1" bcolor="black" src="/photos/dave.jpg" />
 </p>
 
 <p>Dave Jordan 2002
@@ -67,7 +67,7 @@ Te Rapa, Easter 1967.
 </p>
 
 <p>
-<img border="1" bcolor="black" src="photos/pog4.jpg" />
+<img border="1" bcolor="black" src="/photos/pog4.jpg" />
 </p>
 
 <p>
@@ -79,21 +79,5 @@ West.
 </center>
 
 <p align="right">
-<a href="photos2.html">MORE&gt;</a>
+<a href="/resources/photos2.html">MORE &gt;</a>
 </p>
-</td>
-</tr>
-</table>
-<!--script for Google analytics-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl."
-: "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "
-google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1363281-1");
-pageTracker._trackPageview();
-</script>
-</body>
-</html>
