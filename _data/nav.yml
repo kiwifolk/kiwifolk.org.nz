@@ -25,6 +25,8 @@
       subhref: "/resources/photos.html"
     - subtitle: "Links"
       subhref: "/resources/links.html"
+    - subtitle: "Other Resources"
+      subhref: "/resources/other.html"
 
 - title: "Updates"
   href: "/updates/"
