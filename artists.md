@@ -2,7 +2,6 @@
 layout: page
 title: NZ Folk Artists
 permalink: /live_music/artists.html
-
 ---
 
 

@@ -8,7 +8,6 @@ description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  #url: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme"
   url: "http://kiwifolk.lpnz.org"
 
 header: yes
