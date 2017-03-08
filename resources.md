@@ -16,16 +16,11 @@ country's exchange rate at the time of purchase.
 
 <form action=http://www.amazon.com/exec/obidos/external-search method=get>
 
-<table align="center" border="1" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td align="center" bgcolor="white" rowspan="2" valign="center">
-<a href="http://www.amazon.com/exec/obidos/redirect-home/kiwifolk">
-<img alt="Amazon.com logo" border=0 src="graphics/logo.gif"
-height="90" width="120" /></a>
-</td>
 
-<td align=right bgColor="white" vAlign=center>
+<a href="http://www.amazon.com/exec/obidos/redirect-home/kiwifolk">
+<img alt="Amazon.com logo" border=0 src="images/logo.gif"
+height="90" width="120" /></a>
+
 <font face="Verdana" size="2"><strong>Search:</strong></FONT>
 <select name=mode>
 <option selected value=books>Books
@@ -36,25 +31,14 @@ height="90" width="120" /></a>
 <option value=electronics>Electronics
 </option>
 </select>
-</td>
-</tr>
 
-<tr>
-<td align=middle bgColor="white" rowSpan=2 vAlign=center>
-<font face="Verdana" size="2">
 Enter keywords...
 <br /><input name=keyword>
 <input name=tag type=hidden value=kiwifolk>
 <br /><input border=0 name=Search type=submit value=Search>
 </font>
-</td>
-</tr>
-</tbody>
-</table>
 
-</td>
-</tr>
-</table>
+
 
 * TOC
 {:toc}
