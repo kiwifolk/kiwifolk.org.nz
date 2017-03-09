@@ -14,7 +14,7 @@ Please also check out my other ventures:
 
 
 <p>
-Mike Moroney (<a href="MAILTO:mikem(at)kiwifolk.com">mikem(at)kiwifolk.com</a>)
+Mike Moroney (<a href="MAILTO:{{ site.email }}">{{ site.email }}</a>)
 </p>
 
 <p>
@@ -26,14 +26,11 @@ EMAIL.
 </p>
 
 <p>
-<strong>For Open Mics, see <a href="sessions.html">SESSIONS</a></strong>
+<strong>For Open Mics, see <a href="/live_music/sessions.html">SESSIONS</a></strong>
 </p>
 
 <p>
 <font size="1">
 This site <a href="updates.html">updated</a> 12/10/2015.
 </font>
-
-{{ 'now' | date_to_string }}
-
 </p>

@@ -6,7 +6,7 @@ permalink: /live_music/clubs.html
 * TOC
 {:toc}
 
-If any information here needs to be updated please <a href="MAILTO:mikem(at)kiwifolk.com">let me know</a>.
+If any information here needs to be updated please <a href="MAILTO:{{ site.email }}">let me know</a>.
 
 <p>(A map of New Zealand is available <a href="http://www.govt.nz/static/map.php">here</a>.)</p>
 &nbsp;

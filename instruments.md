@@ -8,7 +8,7 @@ permalink: /resources/instruments.html
 
 
 Drop me a line
-<a href="MAILTO:mikem(at)kiwifolk.com?subject=Instrument Page">here</a> if
+<a href="MAILTO:{{ site.email }}?subject=Instrument Page">here</a> if
 you want to be listed.
 
 
