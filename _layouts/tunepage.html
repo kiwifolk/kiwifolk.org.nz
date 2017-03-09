@@ -1,18 +1,11 @@
 ---
 layout: default
 ---
-<script type="text/javascript" src="/js/musical-ws.js"></script>
-<script type="text/javascript" src="/js/abc_controls.js"></script>
+<script type="text/javascript" src="/js/abcjs_basic_3.0-min.js"></script>
+<script type="text/javascript" src="/js/musical-ws.min.js"></script>
+<script type="text/javascript" src="/js/abc_controls.min.js"></script>
 
-{% assign titleTag = page.T | slugify | remove: '-' %}
-
-{{ titleTag }}
-
-{{ page.X }}
-
-{{ page.T }}
-
-{{ content }}
+<h1>{{ page.title }}</h1>
 
 <script type="text/javascript">
 var MyFonts ="%%titlefont       Helvetica 20\n\
