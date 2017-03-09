@@ -20,7 +20,6 @@ header_xl: images/banner-xl.jpg
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
 
-
 # Build settings
 markdown: kramdown
 kramdown:
@@ -56,3 +55,13 @@ facebook_image:                       #enter a default image (at least 200x200px
 twitter_user:
 twitter_card: true
 twitter_image:                        #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+
+collections:
+  newtunes:
+    output: true
+    
+defaults:
+  - scope:
+        path: "_newtunes"
+    values:
+        layout: "tunepage"

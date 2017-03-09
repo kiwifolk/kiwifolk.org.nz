@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<script type="text/javascript" src="/js/musical-ws.js"></script>
+<script type="text/javascript" src="/js/abc_controls.js"></script>
+
+{% assign titleTag = page.T | slugify | remove: '-' %}
+
+{{ titleTag }}
+
+<script type="text/javascript">
+var MyFonts ="%%titlefont       Helvetica 20\n\
+%%subtitlefont    Helvetica 16\n\
+%%gchordfont      Helvetica 12\n\
+%%composerfont    Helvetica-Oblique 14\n\
+%%partsfont       Helvetica 12%%\n\
+%%tempofont       Helvetica 12\n\
+%%annotationfont  Helvetica 12\n\
+%%infofont        Helvetica 12\n\
+%%textfont        Helvetica 12\n\
+%%vocalfont       Helvetica 12\n\
+%%wordsfont       Helvetica 12\n";
+var MyTune="%%staffwidth 540\n" + MyFonts + {{ page.abc | jsonify  }};
+var MyABC = "<span class='showabc' style='font-size: 12px'><br />" + {{ page.abc | newline_to_br | jsonify }} + "</span>";
+
+function toggle(button)
+{
+     switch(button.value)
+     {
+          case "Show ABC Source":
+               button.value = "Hide ABC Source";
+               document.getElementById('abcsource').innerHTML = MyABC;
+               break;
+          case "Hide ABC Source":
+               button.value = "Show ABC Source";
+               document.getElementById('abcsource').innerHTML = "";
+               break;
+     }
+}
+</script>
+
+
+<div class="post-content" itemprop="articleBody">
+   <div class="abc"><div id="notation"></div></div>
+
+   {{ content }}
+
+
+   <h4>Play the ABC version</h4>
+   <div id="textAreas"></div>
+   <div id="ABCplayer"></div>
+
+   <form>
+      <input type="button" value="Show ABC Source" onclick="toggle(this);">
+   </form>
+
+   <div id="abcsource"></div>
+</div>
+
+
+<script>
+$(document).ready(function() {
+    var tuneId = 666;
+
+    ABCJS.renderAbc('notation', MyTune);
+
+    textAreas.innerHTML += '<textarea id="ABC' + tuneId + '" style="display:none;">' + preProcessABC(MyTune) + '</textarea>';
+    ABCplayer.innerHTML = createABCplayer(tuneId);
+});
+</script>
