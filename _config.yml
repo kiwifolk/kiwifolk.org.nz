@@ -57,11 +57,11 @@ twitter_card: true
 twitter_image:                        #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 collections:
-  newtunes:
+  tunes:
     output: true
-    
+
 defaults:
   - scope:
-        path: "_newtunes"
+        path: "_tunes"
     values:
         layout: "tunepage"
