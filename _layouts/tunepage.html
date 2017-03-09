@@ -1,12 +1,9 @@
 ---
-layout: default
+layout: page
 ---
-<script type="text/javascript" src="http://session.nz/js/abcjs_basic_3.0-min.js"></script>
-<script type="text/javascript" src="http://session.nz/js/jquery-3.1.0.min.js"></script>
-<script type="text/javascript" src="http://session.nz/js/musical-ws.min.js"></script>
-<script type="text/javascript" src="http://session.nz/js/abc_controls.min.js"></script>
-
-<h2>{{ page.title }}</h2>
+<script type="text/javascript" src="{{ site.url }}/js/abcjs_basic_3.0-min.js"></script>
+<script type="text/javascript" src="{{ site.url }}/js/musical-ws.min.js"></script>
+<script type="text/javascript" src="{{ site.url }}/js/abc_controls.min.js"></script>
 
 <script type="text/javascript">
 var MyFonts ="%%titlefont       Helvetica 20\n\
@@ -20,52 +17,146 @@ var MyFonts ="%%titlefont       Helvetica 20\n\
 %%textfont        Helvetica 12\n\
 %%vocalfont       Helvetica 12\n\
 %%wordsfont       Helvetica 12\n";
-var MyTune="%%staffwidth 540\n" + MyFonts + {{ content | jsonify  }};
+var MyTune="%%staffwidth 540\n" + MyFonts + {{ page.abc | jsonify  }};
 var MyABC = "<span class='showabc' style='font-size: 12px'><br />" + {{ page.abc | newline_to_br | jsonify }} + "</span>";
+var MyRawABC = {{ page.abc | jsonify }};
 
-function toggle(button)
-{
-     switch(button.value)
-     {
-          case "Show ABC Source":
-               button.value = "Hide ABC Source";
-               document.getElementById('abcsource').innerHTML = MyABC;
-               break;
-          case "Hide ABC Source":
-               button.value = "Show ABC Source";
-               document.getElementById('abcsource').innerHTML = "";
-               break;
-     }
+function downloadFile(filename, text) {
+    var pom = document.createElement('a');
+    pom.setAttribute(
+        'href',
+        'data:application/download;charset=utf-8,' + encodeURIComponent(text)
+    );
+    pom.setAttribute('download', filename);
+
+    if (document.createEvent) {
+        var event = document.createEvent('MouseEvents');
+        event.initEvent('click', true, true);
+        pom.dispatchEvent(event);
+    } else {
+        pom.click();
+    }
 }
 </script>
 
+{% assign fileName = page.title | slugify  %}
 
-<div class="post-content" itemprop="articleBody">
-   <div class="abc"><div id="notation"></div></div>
+<div id="notation"></div>
 
-   {{ content }}
+{{ content }}
 
+<h2>Play the ABC notation</h2>
+<div id="textAreas"></div>
+<div id="ABCplayer"></div>
 
-   <h4>Play the ABC version</h4>
-   <div id="textAreas"></div>
-   <div id="ABCplayer"></div>
-
-   <form>
-      <input type="button" value="Show ABC Source" onclick="toggle(this);">
-   </form>
-
-   <div id="abcsource"></div>
+<h2> ABC notation</h2>
+<div id="abcsource"></div>
+<br />
+<!-- Allow the user to save their ABC-->
+<form>
+    <span title="Download the ABC notation">
+        <input value='Download ABC' type='button' onclick='downloadFile("{{ fileName }}.abc", MyRawABC)' />
+    </span>
+</form>
 </div>
 
 
 <script>
 
-window.onload = function () {
+window.onload = function() {
     var tuneId = 666;
 
     ABCJS.renderAbc('notation', MyTune);
 
     textAreas.innerHTML += '<textarea id="ABC' + tuneId + '" style="display:none;">' + preProcessABC(MyTune) + '</textarea>';
     ABCplayer.innerHTML = createABCplayer(tuneId);
+
+    document.getElementById('abcsource').innerHTML = MyABC;
 };
 </script>
+
+<style>
+.audioplayer {
+    width: 500px;
+    border: none;
+}
+
+.playButton {
+    height: 40px;
+    width: 40px;
+    border: none;
+    background: url('/images/Play_button.png');
+    opacity: 0.7;
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 10px auto auto 8px;
+    outline: none;
+}
+.playButton:hover {
+  opacity: 1.0;
+  transition: all 250ms linear;
+}
+
+.pauseButton {
+    height: 40px;
+    width: 40px;
+    border: none;
+    background: url('/images/Pause_button.png');
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 10px auto auto 8px;
+    outline: none;
+}
+.stopButton {
+    height: 40px;
+    width: 40px;
+    border: none;
+    background: url('/images/Stop_button.png');
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 10px auto auto 8px;
+    outline: none;
+}
+
+.audio_control {
+    width: 45%;
+    margin-top: 14px;
+    float: left;
+}
+
+.speed_control {
+    margin-top: 12px;
+    padding-left: 20px;
+    float: left;
+}
+
+.loop_control {
+    float: left;
+}
+
+.audioPos {
+    position: relative;
+    font-size: 11px;
+    margin-top: 22px;
+    margin-left: -15px;
+    //float: right;
+    text-align: center;
+}
+
+.durationP {
+    position: relative;
+    font-size: 11px;
+    //margin-top: 37px;
+    margin-left: -12px;
+    //float: right;
+    text-align: center;
+    text-decoration: overline;
+}
+
+p.clear {
+    clear: left;
+}
+</style>
