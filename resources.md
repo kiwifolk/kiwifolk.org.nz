@@ -13,7 +13,6 @@ fast, reliable and secure service. All prices are in US dollars so check your
 country's exchange rate at the time of purchase.
 
 
-
 <form action=http://www.amazon.com/exec/obidos/external-search method=get>
 
 

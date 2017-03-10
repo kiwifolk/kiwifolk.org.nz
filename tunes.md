@@ -4,24 +4,40 @@ title: NZ-Composed Tunes
 permalink: /resources/tunes.html
 ---
 
-
-<p>
 The tunes in these files were all created by New Zealand composers, and are presented
 here in ABC format. To print them, or hear them, copy the file into a converter,
 such as those found <a href="http://www.concertina.net/tunes_convert.html">here</a>
 or <a href="http://mandolintab.net/abcconverter.php">here</a>.
-</p>
 
-<p>
 More information about the ABC music format can be found <a href="http://abcnotation.com/">here</a>.
-</p>
-
 
 <!--
- * :
-<a href="/tunes/.html">ABC</a>,
-<a href="/tunes/pdf/.pdf">PDF</a>,
-<a href="/tunes/midi/.mid">MIDI</a>
+ ## Tune type
+
+* <a href="/tunes/tune_name.html">Tune Name</a>,
+
+Create a tune file in the directory '_tunes' with format:
+
+---
+title: The Green Cottage
+abc: |
+    X:1
+    T:The Green Cottage
+    M:6/8
+    L:1/8
+    C:Jono Lonie
+    O:New Zealand
+    Q:1/4=140
+    R:Jig
+    S:Farewell to the Spit
+    K:G
+    "Em"E3 B,EG|"D"FED "Em"EFA|E3 B,EG|"D"FED "Bm"B,3|
+    "Em"E3 B,EG|"D"FED "Em"EFA|"Bm"BdB AFE|1 FGA FED:|2 FGA "F#m"FGA|
+    |:"Bm"BdB AFA|FBF "A"AFE|"Bm"BdB AFf|edB "A"dBA|
+    "Bm"BdB AFA|BFB "A"AFA|"Em"gfe dBA|1 FGA FED:|2 FGA BGF||
+---
+
+Leading spaces on the abc: section are critical!
 -->
 
 <br />
@@ -30,8 +46,6 @@ More information about the ABC music format can be found <a href="http://abcnota
  * <a href="/tunes/Cauld_Naseby_Air.html">Cauld Naseby Air (Marcus Turner)</a>
  * <a href="/tunes/Mist_Covered_Motorway.html">The Mist Covered Motorway (Bob Entwhistle)</a>
  * <a href="/tunes/Tuesday.html">Tuesday (Celia Briar)</a>
-
-
 
 <br />
 ## Hornpipes
