@@ -19,9 +19,7 @@ Links of interest to folkies, culled from the
 <!--format
 
 
-date
-
-
+**date**
 
 title
 
@@ -29,7 +27,7 @@ title
 
 comment (if needed)
 
-
+<br />
 next one
 
 ADD NEW LINKS HERE

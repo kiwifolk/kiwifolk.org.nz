@@ -4,13 +4,11 @@ title: NZ Folk Artists
 permalink: /live_music/artists.html
 ---
 
-
 These artists are listed here (in alphabetical order) purely for information.
 KiwiFolk does not represent these artists in any way. While the list is a
 representative selection of Kiwi folk and related artists, it is by no means
 exhaustive.
 
-<p>
 <font size="4">
 <blockquote>
 <br /><a href="http://www.benthehoose.com">Ben the Hoose</a>
@@ -32,8 +30,8 @@ exhaustive.
 <br /><a href="http://www.philgarland.co.nz/">Garland, Phil</a>
 <br /><a href="http://www.nigelgavin.com/">Gavin, Nigel</a>
 <br /><a href="http://www.waynegillespie.com/">Gillespie, Wayne</a>
-<br /><a href="http://www.glornamban.com">Gl�r na mBan</a>
-<br /><a href="http://www.iangoodsman.com">Goodsman, Lil&#39; Ian</a>
+<br /><a href="http://www.glornamban.com">Gl\'or na mBan</a>
+<br /><a href="http://www.iangoodsman.com">Goodsman, Lil' Ian</a>
 <br /><a href="http://www.mikeharding.co.nz">Harding, Mike</a>
 <br /><a href="http://www.TonyHillyard.com">Hillyard, Tony</a>
 <br /><a href="http://www.owenhugh.co.nz">Hugh, Owen</a>
@@ -87,4 +85,3 @@ exhaustive.
 <br /><a href="http://www.charlotteyates.com/">Yates, Charlotte</a>
 </blockquote>
 </font>
-</p>

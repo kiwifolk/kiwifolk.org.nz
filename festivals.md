@@ -4,7 +4,7 @@ title: New Zealand Folk and Acoustic Music Festivals
 permalink: /live_music/festivals.html
 ---
 
-<p>
+
 <strong>Aongatete Festival &#34;Folk under the Figs&#34;</strong>
 <br />Where: 156 Work Road, Katikati
 <br />When: Last Friday night and Saturday of February
@@ -12,43 +12,42 @@ permalink: /live_music/festivals.html
 <br />Email: <a href="mailto:paulandpennymusic(at)gmail.com">paulandpennymusic(at)gmail.com</a>
 <br />Web page: <a href="http://www.aongatete.co.nz">http://www.aongatete.co.nz</a>
 
-</p>
 
-<p>
+
+
 <strong>Auckland Folk Festival</strong>
 <br />Where: Kumeu Showgrounds, Kumeu - State Highway 16.
 <br />When: Last weekend in January
 <br />Web page:
 <a href="http://www.aucklandfolkfestival.co.nz">http://www.aucklandfolkfestival.co.nz </a>
-</p>
 
-<p>
-<strong>Bards, Ballads &#38; Bulldust</strong> (The Naseby High Country
-Festival)
+
+
+<strong>Bards, Ballads &#38; Bulldust</strong> (The Naseby High Country Festival)
 <br />Where: The Ancient Briton Hotel, Naseby
 <br />When: Easter
 <br />Web page:
 <a href="http://www.kiwifolk.org.nz/festivals/BBB/index.htm">http://www.kiwifolk.org.nz/festivals/BBB/index.htm</a>
-</p>
 
-<p>
+
+
 <strong>Canterbury Folk Festival</strong>
 <br />Where: Waipara Valley (1 hour north from Christchurch)
 <br />When: Every Easter.
 <br />Web page:
- <a href="http://www.canterburyfolkfestival.org.nz">http://www.canterburyfolkfestival.org.nz</a>
-</p>
+<a href="http://www.canterburyfolkfestival.org.nz">http://www.canterburyfolkfestival.org.nz</a>
 
-<p>
+
+
 <strong>Cardrona Folk Festival</strong>
 <br />Where: Held in the beautiful Cardrona Valley not far from Lake Wanaka in Central Otago.
 Hosted by kiwi recording artist, Martin Curtis.
 <br />When: Labour Weekend; usually the third weekend in October.
 <br />Web page:
- <a href="http://www.martincurtis.co.nz/cardrona.html">http://www.martincurtis.co.nz/cardrona.html</a>
-</p>
+<a href="http://www.martincurtis.co.nz/cardrona.html">http://www.martincurtis.co.nz/cardrona.html</a>
 
-<p>
+
+
 <strong>Celtanz Celtic Music Camp</strong>
 <br />Where: Kiwanis Huia Camp, Little Huia, Waitakere, Auckland
 <br />When: 29th October to 1st November 2010
@@ -60,62 +59,62 @@ Duncan Smith (Australia), Brendyn Montgomery (N.Z.) , Tom Delaney
 <br />Email: <a href="mailto:celticanz(at)gmail.com">celticanz(at)gmail.com</a>
 <br />Website: "Celicanz" link at <a href="http://www.stringworkshop.co.nz">http://www.stringworkshop.co.nz</a>
 <br />Updated: 30/8/2010
-</p>
 
-<p>
+
+
 <strong>Ceol Aneas Traditional Irish Music Festival and Workshops.</strong>
-		<br />When: Annually over NZ Queen&#39;s Birthday holiday weekend
+<br />When: Annually over NZ Queen&#39;s Birthday holiday weekend
 <br />Where: Nelson
 <br />Organized by: The Celtic Flute School of NZ Inc.
 <br />Website: <a href="http://www.irishmusic.org.nz">http://www.irishmusic.org.nz</a>
 <br />Email: <a href="mailto:info(at)irishmusic.org.nz">info(at)irishmusic.org.nz</a>
 <br />Comments: Annual 3 day traditional Irish music school in Nelson, with
 concert, ceili, instrument workshops and sessions
-	<br />Updated 21/4/2013
-</p>
+<br />Updated 21/4/2013
 
-<p>
+
+
 <strong>Folk Under The Mountain</strong>
 <br />Where: Te Aroha
 <br />When: May
 <br />Facebook page: <a href="https://www.facebook.com/folkunderthemountain">https://www.facebook.com/folkunderthemountain</a>
-</p>
 
-<p>
+
+
 <strong>Hamilton Easter Festival (Hamsterfest)</strong>
 <br />Where: Matangi Sports Club, 650 Tauwhere Rd
 <br />When: Every Easter, Friday to Monday.
-		<br />Email: <a href="mailto:hamc.announce(at)gmail.com">hamc.announce(at)gmail.com</a>
+<br />Email: <a href="mailto:hamc.announce(at)gmail.com">hamc.announce(at)gmail.com</a>
 <br />Facebook page: <a href="https://www.facebook.com/events/669073656536830/">https://www.facebook.com/events/669073656536830/</a>
 <br />Updated 5/03/2015
-</p>
 
-<p>
+
+
 <strong>Tauranga & Katikati Acoustic Music Festival</strong>
 <br />Where: 156 Work Road Katikati
 <br />When: Saturday 25 Feb 2012: 10am - 9pm
 <br />Contact: Jacquie Rodewald
 <br />Email: <a href="mailto:rodewaldj(at)gmail.com">rodewaldj(at)gmail.com</a>
 <br />Web page: <a href="http://www.tamc.org.nz">http://www.tamc.org.nz</a>
-</p>
 
-<p>
+
+
 <strong>Kohukohu Folk Festival</strong>
 <br />Where: Kokukoku, Hokianga
 <br />When: April 3,4,5, 2009
 <br />Web page: <a href="http://www.kohukohufolkfestival.co.nz/">http://www.kohukohufolkfestival.co.nz/</a>
 <br />Cellphone: 021 02215067 (Louise)
-</p>
 
-<p>
+
+
 <strong>"Laftah" (Life After Tahora) Fest</strong>
 <br />Where: Otaki Bridge Lodge
 <br />When: 27 December until 2 January
 <br />Email: <a href="mailto:julmur(at)paradise.net.nz">julmur(at)paradise.net.nz</a>
-</p>
 
 
-<p>
+
+
 <strong>Nelson Multicultural Folk Festival</strong>
 <br />Where: Founders Heritage Park
 <br />When: Third Weekend in September (21 - 23 September 2012)
@@ -124,40 +123,40 @@ concert, ceili, instrument workshops and sessions
 <br />The programme will include the Music, Dance and Song of the many
 nationalities found in Nelson with dances, concerts, workshops and busking
 in the City and surrounding area.
-</p>
 
-<p>
+
+
 <a name="paretai" id="paretai"></a>
 <strong>Paretai Folk Camp</strong>
 <br />Where: Paretai Lodge, in the Lee Valley near Nelson
 <br />When: Saturday 31st December 2011 to Tuesday 3rd January 2012
 <br />Contact: Steve McGlone
 <br />Email: <a href="mailto:paretaifolk(at)gmail.com">paretaifolk(at)gmail.com</a>
-</p>
 
 
-<p>
+
+
 <strong>The Southern Hemisphere International School of Scottish Fiddle</strong>
 <br />Where: Camp Akatarawa, Upper Hutt
 <br />When: Monday July 5th to Saturday July 10th, 2004
 <br />Contact: Duncan Smith
 <br />Email: <a href="mailto:dsmith(at)vicnet.net.au">dsmith(at)vicnet.net.au</a>
-		<br />Web page: <a href="http://www.shissf.com">http://www.shissf.com</a>
+<br />Web page: <a href="http://www.shissf.com">http://www.shissf.com</a>
 <br />Phone: +61 3 9756 7366
-</p>
 
 
 
-<p>
+
+
 <strong>Tui Farm Folk Festival</strong>
 <br />Where: Wakefield, Nelson
 <br />When: New Year
 <br />Contact: Carol Rose
 <br />Email: <a href="festival(at)tuifarmfolk.co.nz">festival(at)tuifarmfolk.co.nz</a>
 <br />Web page: <a href="http://www.tuifarmfolk.co.nz">http://www.tuifarmfolk.co.nz</a>
-</p>
 
-<p>
+
+
 <strong>Up the Mountain</strong>
 <br />Old-time Music Festival
 <br />When: 22-24 August 2014
@@ -168,9 +167,9 @@ and guitar, a concert and hoedown and a gospel sing.
 <br />Web page: <a href="http://www.oldtimeymusic.kiwi.nz">http://www.oldtimeymusic.kiwi.nz</a>
 <br />Contact: Helena Faust
 <br />Email: <a href="mailto:hbfaust(at)yahoo.com">hbfaust(at)yahoo.com</a>
-</p>
 
-<p>
+
+
 <strong>Waharau Winter Shakeup</strong>
 <br />Where: Education camp in the Waharau regional Park. No camping but some limited space
 for campervans. A small festival, approx 100 people, no paid guests. It is held in the
@@ -181,9 +180,9 @@ Approx 75 mins drive south east of Auckland. Booking is essential.
 <br />Phone: (07) 552 6291.
 <br />Email: <a href="mailto:redruth(at)vodafone.co.nz">redruth(at)vodafone.co.nz</a>
 <br />Added: 21/4/2013
-</p>
 
-<p>
+
+
 <strong>Waihi Bush Folk Festival</strong>
 <br />The South Island&#39;s newest festival.
 <br />Contact: David Musgrave
@@ -191,25 +190,25 @@ Approx 75 mins drive south east of Auckland. Booking is essential.
 <br />Where: Geraldine, South Canterbury
 <br />When: 1<SUP>st</SUP> weekend in February
 <br />Web page:
- <a href="http://www.selectsound.co.nz/waihibush.html">http://www.selectsound.co.nz/waihibush.html</a>
-</p>
+<a href="http://www.selectsound.co.nz/waihibush.html">http://www.selectsound.co.nz/waihibush.html</a>
 
-<p>
+
+
 <strong>Wellington Folk Festival</strong>
 <br />Where: Brookfields, near Wainuiomata
 <br />When: Labour Weekend; usually the third weekend in October.
 <br />Web page:
- <a href="http://wellingtonfolkfestival.org.nz">http://wellingtonfolkfestival.org.nz</a>
-</p>
+<a href="http://wellingtonfolkfestival.org.nz">http://wellingtonfolkfestival.org.nz</a>
 
-<p>
+
+
 <strong>Whare Flat Festival of Music and Dance</strong>
 <br />Where: Waiora Scout Camp, near Dunedin
 <br />When: Four days over New Year.
 <br />Web page: <a href="http://www.whareflat.org.nz">http://www.whareflat.org.nz</a>
-</p>
 
-<p>
+
+
 <strong>Waimate Folk Festival</strong>
 <br />Formerly the Whitestone Winter Festival
 <br />Where: Gunns Bush (50km South of Timaru)
@@ -218,18 +217,4 @@ Approx 75 mins drive south east of Auckland. Booking is essential.
 <br />Phone: 0276942401
 <br />Email: <a href="mailto:b_27(at)hotmail.com">b_27(at)hotmail.com</a>
 <br />Web page:
- <a href="http://whitestonewinterfolkfestival.weebly.com/">http://whitestonewinterfolkfestival.weebly.com/</a>
-</p>
-
-
-<!--script for Google analytics-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl."
-: "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "
-google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1363281-1");
-pageTracker._trackPageview();
-</script>
+<a href="http://whitestonewinterfolkfestival.weebly.com/">http://whitestonewinterfolkfestival.weebly.com/</a>

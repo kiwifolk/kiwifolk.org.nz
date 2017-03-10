@@ -175,4 +175,4 @@ Festival Calendar
 
 
 
-See <a href="festivals.html">FESTIVALS</a> for details.
+See <a href="/live_music/festivals.html">FESTIVALS</a> for details.

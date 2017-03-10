@@ -19,7 +19,7 @@ end
 
 desc "Watch the site and regenerate when it changes"
 task :watch do
-  system "JEKYLL_ENV=development bundle exec jekyll serve --config '_config.yml,_config_localhost.yml' --watch"
+  system "JEKYLL_ENV=development bundle exec jekyll serve --port 4004 --config '_config.yml,_config_localhost.yml' --watch"
 end
 
 ##############
