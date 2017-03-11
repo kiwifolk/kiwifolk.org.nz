@@ -9,7 +9,7 @@ permalink: /live_music/festivals.html
 <br />Where: 156 Work Road, Katikati
 <br />When: Last Friday night and Saturday of February
 <br />Contact: Paul Hoggard
-<br />Email: <a href="mailto:paulandpennymusic(at)gmail.com">paulandpennymusic(at)gmail.com</a>
+<br />Email: <a href="mailto:paulandpennymusic@gmail.com">paulandpennymusic@gmail.com</a>
 <br />Web page: <a href="http://www.aongatete.co.nz">http://www.aongatete.co.nz</a>
 
 
@@ -56,7 +56,7 @@ Duncan Smith (Australia), Brendyn Montgomery (N.Z.) , Tom Delaney
 (Ireland/France), Mark Mazengarb (N.Z.)
 <br />Contact: Bo and Phil
 <br />Phone: (09) 478 - 5000
-<br />Email: <a href="mailto:celticanz(at)gmail.com">celticanz(at)gmail.com</a>
+<br />Email: <a href="mailto:celticanz@gmail.com">celticanz@gmail.com</a>
 <br />Website: "Celicanz" link at <a href="http://www.stringworkshop.co.nz">http://www.stringworkshop.co.nz</a>
 <br />Updated: 30/8/2010
 
@@ -67,7 +67,7 @@ Duncan Smith (Australia), Brendyn Montgomery (N.Z.) , Tom Delaney
 <br />Where: Nelson
 <br />Organized by: The Celtic Flute School of NZ Inc.
 <br />Website: <a href="http://www.irishmusic.org.nz">http://www.irishmusic.org.nz</a>
-<br />Email: <a href="mailto:info(at)irishmusic.org.nz">info(at)irishmusic.org.nz</a>
+<br />Email: <a href="mailto:info@irishmusic.org.nz">info@irishmusic.org.nz</a>
 <br />Comments: Annual 3 day traditional Irish music school in Nelson, with
 concert, ceili, instrument workshops and sessions
 <br />Updated 21/4/2013
@@ -84,7 +84,7 @@ concert, ceili, instrument workshops and sessions
 <strong>Hamilton Easter Festival (Hamsterfest)</strong>
 <br />Where: Matangi Sports Club, 650 Tauwhere Rd
 <br />When: Every Easter, Friday to Monday.
-<br />Email: <a href="mailto:hamc.announce(at)gmail.com">hamc.announce(at)gmail.com</a>
+<br />Email: <a href="mailto:hamc.announce@gmail.com">hamc.announce@gmail.com</a>
 <br />Facebook page: <a href="https://www.facebook.com/events/669073656536830/">https://www.facebook.com/events/669073656536830/</a>
 <br />Updated 5/03/2015
 
@@ -94,7 +94,7 @@ concert, ceili, instrument workshops and sessions
 <br />Where: 156 Work Road Katikati
 <br />When: Saturday 25 Feb 2012: 10am - 9pm
 <br />Contact: Jacquie Rodewald
-<br />Email: <a href="mailto:rodewaldj(at)gmail.com">rodewaldj(at)gmail.com</a>
+<br />Email: <a href="mailto:rodewaldj@gmail.com">rodewaldj@gmail.com</a>
 <br />Web page: <a href="http://www.tamc.org.nz">http://www.tamc.org.nz</a>
 
 
@@ -110,7 +110,7 @@ concert, ceili, instrument workshops and sessions
 <strong>"Laftah" (Life After Tahora) Fest</strong>
 <br />Where: Otaki Bridge Lodge
 <br />When: 27 December until 2 January
-<br />Email: <a href="mailto:julmur(at)paradise.net.nz">julmur(at)paradise.net.nz</a>
+<br />Email: <a href="mailto:julmur@paradise.net.nz">julmur@paradise.net.nz</a>
 
 
 
@@ -118,7 +118,7 @@ concert, ceili, instrument workshops and sessions
 <strong>Nelson Multicultural Folk Festival</strong>
 <br />Where: Founders Heritage Park
 <br />When: Third Weekend in September (21 - 23 September 2012)
-<br />Email: <a href="mailto:nelsonfolkfestival(at)gmail.com">nelsonfolkfestival(at)gmail.com</a>
+<br />Email: <a href="mailto:nelsonfolkfestival@gmail.com">nelsonfolkfestival@gmail.com</a>
 <br />Website: <a href="http://www.nelsonfolkfestival.org.nz/home/">http://www.nelsonfolkfestival.org.nz/home/</a>
 <br />The programme will include the Music, Dance and Song of the many
 nationalities found in Nelson with dances, concerts, workshops and busking
@@ -131,7 +131,7 @@ in the City and surrounding area.
 <br />Where: Paretai Lodge, in the Lee Valley near Nelson
 <br />When: Saturday 31st December 2011 to Tuesday 3rd January 2012
 <br />Contact: Steve McGlone
-<br />Email: <a href="mailto:paretaifolk(at)gmail.com">paretaifolk(at)gmail.com</a>
+<br />Email: <a href="mailto:paretaifolk@gmail.com">paretaifolk@gmail.com</a>
 
 
 
@@ -140,7 +140,7 @@ in the City and surrounding area.
 <br />Where: Camp Akatarawa, Upper Hutt
 <br />When: Monday July 5th to Saturday July 10th, 2004
 <br />Contact: Duncan Smith
-<br />Email: <a href="mailto:dsmith(at)vicnet.net.au">dsmith(at)vicnet.net.au</a>
+<br />Email: <a href="mailto:dsmith@vicnet.net.au">dsmith@vicnet.net.au</a>
 <br />Web page: <a href="http://www.shissf.com">http://www.shissf.com</a>
 <br />Phone: +61 3 9756 7366
 
@@ -152,7 +152,7 @@ in the City and surrounding area.
 <br />Where: Wakefield, Nelson
 <br />When: New Year
 <br />Contact: Carol Rose
-<br />Email: <a href="festival(at)tuifarmfolk.co.nz">festival(at)tuifarmfolk.co.nz</a>
+<br />Email: <a href="festival@tuifarmfolk.co.nz">festival@tuifarmfolk.co.nz</a>
 <br />Web page: <a href="http://www.tuifarmfolk.co.nz">http://www.tuifarmfolk.co.nz</a>
 
 
@@ -166,7 +166,7 @@ music in New Zealand with open mics, jamming, workshops in fiddle, banjo
 and guitar, a concert and hoedown and a gospel sing.
 <br />Web page: <a href="http://www.oldtimeymusic.kiwi.nz">http://www.oldtimeymusic.kiwi.nz</a>
 <br />Contact: Helena Faust
-<br />Email: <a href="mailto:hbfaust(at)yahoo.com">hbfaust(at)yahoo.com</a>
+<br />Email: <a href="mailto:hbfaust@yahoo.com">hbfaust@yahoo.com</a>
 
 
 
@@ -178,7 +178,7 @@ Approx 75 mins drive south east of Auckland. Booking is essential.
 <br />When: Queens Birthday Weekend
 <br />Contact: Rosie Holmes
 <br />Phone: (07) 552 6291.
-<br />Email: <a href="mailto:redruth(at)vodafone.co.nz">redruth(at)vodafone.co.nz</a>
+<br />Email: <a href="mailto:redruth@vodafone.co.nz">redruth@vodafone.co.nz</a>
 <br />Added: 21/4/2013
 
 
@@ -186,7 +186,7 @@ Approx 75 mins drive south east of Auckland. Booking is essential.
 <strong>Waihi Bush Folk Festival</strong>
 <br />The South Island&#39;s newest festival.
 <br />Contact: David Musgrave
-<br />Email: <a href="mailto:dmusgrave369(at)gmail.com">dmusgrave369(at)gmail.com</a>
+<br />Email: <a href="mailto:dmusgrave369@gmail.com">dmusgrave369@gmail.com</a>
 <br />Where: Geraldine, South Canterbury
 <br />When: 1<SUP>st</SUP> weekend in February
 <br />Web page:
@@ -215,6 +215,6 @@ Approx 75 mins drive south east of Auckland. Booking is essential.
 <br />When: Weekend of the first Monday of June (Queens Birthday Weekend)
 <br />Contact: Miguel Nitis
 <br />Phone: 0276942401
-<br />Email: <a href="mailto:b_27(at)hotmail.com">b_27(at)hotmail.com</a>
+<br />Email: <a href="mailto:b_27@hotmail.com">b_27@hotmail.com</a>
 <br />Web page:
 <a href="http://whitestonewinterfolkfestival.weebly.com/">http://whitestonewinterfolkfestival.weebly.com/</a>

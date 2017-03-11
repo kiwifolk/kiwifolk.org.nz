@@ -771,7 +771,7 @@ date
  * Pembroke Folk Club updated ("Clubs")
  * Folk Dancing for Fun added ("Clubs")
  * New Edinburgh Folk Club updated ("Clubs")
- * <b>Thanks to Roger and Hilary at <a href="mailto:realmusic(at)xtra.co.nz">realmusic(at)xtra.co.nz</a>
+ * <b>Thanks to Roger and Hilary at <a href="mailto:realmusic@xtra.co.nz">realmusic@xtra.co.nz</a>
  for new information.</b>
  * Waiheke session added ("Sessions")
 
@@ -802,7 +802,7 @@ date
  * Titirangi Folk Music Club updated ("Clubs")
  * Waitakere Folk Club updated ("Clubs")
  * Katikati Folk Club updated ("Clubs")
- * <b>Thanks to Roger and Hilary at <a href="mailto:realmusic(at)xtra.co.nz">realmusic(at)xtra.co.nz</a>
+ * <b>Thanks to Roger and Hilary at <a href="mailto:realmusic@xtra.co.nz">realmusic@xtra.co.nz</a>
  for new information.</b>
 
 

@@ -33,7 +33,7 @@ Fire in the Mountain: Acoustic jam session
 <br />Where: The Bunker, Mount Victoria, Devonport
 <br />When: 7:00 pm one Sunday evening per month (usually the third, but phone to check)
 <br />Contact: Michael Young
-<br />Email:<a href="mailto:Michael(at)michaelyoung.com">Michael(at)michaelyoung.com</a>
+<br />Email:<a href="mailto:Michael@michaelyoung.com">Michael@michaelyoung.com</a>
 <br />Phone: 	(09) 446 6162
 <br />Added 15/9/2013
 
@@ -74,7 +74,7 @@ Irish Tunes session
 Where: 99a McEntee Road, Waitakere, Waitakere City
 <br />When: Sundays, 5:00 - 8:00 pm.
 <br />Who: Trevor Sommers
-<br />Email: <a href="mailto:tsommers(at)ihug.co.nz">tsommers(at)ihug.co.nz</a>
+<br />Email: <a href="mailto:tsommers@ihug.co.nz">tsommers@ihug.co.nz</a>
 <br />Notes: Singers, musicians, listeners, drinkers welcome.
 <br />Updated: 2/6/2007
 
@@ -102,7 +102,7 @@ Where: Biddy Mulligans Victoria Street
 <br />When: Third Sunday of the month 5.00 - 8.00 ish
 <br />Contact: Noel Armstrong
 <br />Mobile: 021 232 7819
-<br />Email: <a href="MAILTO:gingaarmstrong(at)gmail.com">gingaarmstrong(at)gmail.com</a>
+<br />Email: <a href="MAILTO:gingaarmstrong@gmail.com">gingaarmstrong@gmail.com</a>
 <br />Who: All welcome
 <br />What: "This a Trad. session, tunes, singing and if we're cold enough occasionally
 some spontaneous dancing. All welcome."
@@ -114,8 +114,8 @@ Where: The GPO Restaurant and Bar, 43 Victoria Street, Cambridge
 <br />When: First Friday of each month, 6:30 - 9:30 pm.
 <br />Contact: Bryan and Wendy Mitchell at Unicorns n Pheasants (shop), 17 Empire Street, Cambridge
 <br />Phone: (07) 827 6906 (Shop hours)
-<br />Email: <a href="mailto:kilts(at)xtra.co.nz">kilts(at)xtra.co.nz</a>
-or <a href="mailto:unp(at)xtra.co.nz">unp(at)xtra.co.nz</a>
+<br />Email: <a href="mailto:kilts@xtra.co.nz">kilts@xtra.co.nz</a>
+or <a href="mailto:unp@xtra.co.nz">unp@xtra.co.nz</a>
 <br />Updated: 15/9/2013
 
 
@@ -125,7 +125,7 @@ or <a href="mailto:unp(at)xtra.co.nz">unp(at)xtra.co.nz</a>
 Where: The Kingsley Jones Bar, Marine Parade
 <br />When: First Tuesday of each month at 8.00pm
 <br />Contact: Trevor Sommers
-(<a href="MAILTO:TSommers(at)tgc.school.nz">TSommers(at)tgc.school.nz</a>)
+(<a href="MAILTO:TSommers@tgc.school.nz">TSommers@tgc.school.nz</a>)
 <br />What: Songs and Tunes led by REEL McCOY on Irish pipes, banjo, accordion etc -
 mainly Celtic
 <br />Updated: 16/10/2004
@@ -138,7 +138,7 @@ Where: Rose & Shamrock, Napier Road, Havelock North
 <br />When: TWednesday evening, 8:00 pm.
 <br />Contact: Keith Gosney
 <br />Phone: 06 876 5867
-<br />Email: <a href="MAILTO:klgosney(at)xtra.co.nz">klgosney(at)xtra.co.nz</a>
+<br />Email: <a href="MAILTO:klgosney@xtra.co.nz">klgosney@xtra.co.nz</a>
 <br />Updated: 30/8/2010
 
 
@@ -175,7 +175,7 @@ Where: Welsh Dragon, Cambridge Terrace
 Where: The Free House, Collingwood Street
 <br />When: Every Wednesday, 8:00 pm
 <br />Contact: Bob Bloody Bickerton
-<br />Email: <a href="mailto:mail(at)bickerton.co.nz">mail(at)bickerton.co.nz</a>
+<br />Email: <a href="mailto:mail@bickerton.co.nz">mail@bickerton.co.nz</a>
 <br />Added: 17/10/2009
 
 
@@ -187,7 +187,7 @@ good for trying out songs, or getting started in performing.
 <br />Cost: none
 <br />Contact: Anna Heinz
 <br />Phone: (03) 546 7262
-<br />Email: <a href="anna.heinz(at)ncg.school.nz">anna.heinz(at)ncg.school.nz</a>
+<br />Email: <a href="anna.heinz@ncg.school.nz">anna.heinz@ncg.school.nz</a>
 <br />Added: 15/9/2013 		
 
 
@@ -202,7 +202,7 @@ and sing as many songs as we can fit into two hours!
 <br />Cost: none
 <br />Contact: Anna Heinz
 <br />Phone: (03) 546 7262
-<br />Email: <a href="anna.heinz(at)ncg.school.nz">anna.heinz(at)ncg.school.nz</a>
+<br />Email: <a href="anna.heinz@ncg.school.nz">anna.heinz@ncg.school.nz</a>
 <br />Added: 15/9/2013 		
 
 
@@ -221,7 +221,7 @@ the house PA system. Free beer for musicians.
 
 Where: Pomeroy&#39;s, 30 Kilmore Street
 <br />Phone: 03 365 1523
-<br />Email: <a href="lbolster(at)jadeworld.com">lbolster(at)jadeworld.com</a>
+<br />Email: <a href="lbolster@jadeworld.com">lbolster@jadeworld.com</a>
 <br />When: Alternate Tuesdays, 8:00 pm. (Ring to confirm.)
 <br />What: Acoustic. Advanced Tunes. Not normally any songs. "Where the guns go."
 <br />Updated: 23/11/2006
@@ -232,7 +232,7 @@ Where: Pegasus Arms (Oxford Terrace)
 <br />When: Monday night 7-30 until 10pm.
 <br />Who: Russell Gillies
 <br />Phone: 03 9807541
-<br />Email <a href="mailto:russell(at)selectsound.co.nz">russell(at)selectsound.co.nz</a>
+<br />Email <a href="mailto:russell@selectsound.co.nz">russell@selectsound.co.nz</a>
 <br />Updated: 3/3/2012
 
 
@@ -287,7 +287,7 @@ Bunker Hill Folk Review
 <br />Where: The Bunker, Mount Victoria, Devonort
 <br />When: One Sunday evening per month (usually the 4th, but phone to check)
 <br />Who: Geoff Rowe
-<br />Contact: <a href="mailto:bunkerhillfolk(at)gmail.com">bunkerhillfolk(at)gmail.com</a>
+<br />Contact: <a href="mailto:bunkerhillfolk@gmail.com">bunkerhillfolk@gmail.com</a>
 <br />Phone: 0274 747 835 (evenings only)
 <br />Notes: For songwriters are showcased each month
 <br />Added: 15/9/2013
@@ -322,7 +322,7 @@ Wellington
 <br />Where: Thunderbird cafe, 154 Featherston Street
 <br />When: 1st Sunday of the month 1-3 p.m.
 <br />Who: Kevin Ikin
-<br />Contact: <a href="mailto:kevin.ikin(at)clear.net.nz">kevin.ikin(at)clear.net.nz</a>
+<br />Contact: <a href="mailto:kevin.ikin@clear.net.nz">kevin.ikin@clear.net.nz</a>
 <br />Added: 5/10/15
 
 
@@ -331,5 +331,5 @@ Open mic
 <br />Where: Plimmerton Boating Club, Esplanade, Plimmerton
 <br />When: 2nd Thursday of the month, 7.30
 <br />Who: Roy McGuinness
-<br />Contact: <a href="mailto:mcclassics(at)xtra.co.nz">mcclassics(at)xtra.co.nz</a>
+<br />Contact: <a href="mailto:mcclassics@xtra.co.nz">mcclassics@xtra.co.nz</a>
 <br />Added: 5/10/15

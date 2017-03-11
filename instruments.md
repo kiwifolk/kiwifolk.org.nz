@@ -17,7 +17,7 @@ you want to be listed.
 
 ### AJF Guitars
 
-Email: <a href="mailto:ajfguitars@xtra.co.nz">ajfguitars(at)xtra.co.nz@
+Email: <a href="mailto:ajfguitars@xtra.co.nz">ajfguitars@xtra.co.nz@
 <br />Phone: (03) 544 4659
 <br />Mobile: 027 274 7791
 
@@ -83,7 +83,7 @@ Octave Mandolins and Tenor Ukuleles. Also offering Beat Boxes and some
 repair service, located in Waterview, Auckland.
 
 <br />Website: <a href="http://www.barebonesfolkinstruments.com/">www.barebonesfolkinstruments.com/</a>
-<br />Contact: <a href="mailto:barebonesfolkinstruments(at)xtra.co.nz">barebonesfolkinstruments(at)xtra.co.nz</a>   
+<br />Contact: <a href="mailto:barebonesfolkinstruments@xtra.co.nz">barebonesfolkinstruments@xtra.co.nz</a>   
 
 
 ### Beltona Resonator Instruments
@@ -130,7 +130,7 @@ hesitate to enquire, if your interested in learning to play I can
 introduced you to suitably qualified Tutors throughout NZ.
 
 Les Mountford 09/2925770
-<br /><a href="mailto:ceol-mhor(at)xtra.co.nz">ceol-mhor(at)xtra.co.nz</a>
+<br /><a href="mailto:ceol-mhor@xtra.co.nz">ceol-mhor@xtra.co.nz</a>
 
 
 
@@ -199,7 +199,7 @@ to complete beginners.
 ### Sonora Stringed Instrument Repair
 
 Web page: <a href="http://sonora.nz">http://sonora.nz</a>
-<br />Email: <a href="mailto:info(at)sonora.nz">info(at)sonora.nz</a>
+<br />Email: <a href="mailto:info@sonora.nz">info@sonora.nz</a>
 <br />Mobile: 021 870 100
 
 
@@ -255,7 +255,7 @@ Further details, pictures and prices are available on
 <br />Christchurch 8062,
 <br />New Zealand.
 <br />Phone +64 3 388 6667
-<br />Email: <a href="mailto:davy(at)stuart.co.nz">davy(at)stuart.co.nz</a>
+<br />Email: <a href="mailto:davy@stuart.co.nz">davy@stuart.co.nz</a>
 </blockquote>
 
 
@@ -345,7 +345,7 @@ Level 1, 49 Courtenay Place
 <br />Wellington 6011
 <br />0064 4 385 6159
 <br />021 136 5791
-<br />Email: <a href="iansviolinshop(at)yahoo.com">iansviolinshop(at)yahoo.com</a>
+<br />Email: <a href="iansviolinshop@yahoo.com">iansviolinshop@yahoo.com</a>
 <br />Facebook: <a href="https://www.facebook.com/IansViolinShop">https://www.facebook.com/IansViolinShop</a>
 
 

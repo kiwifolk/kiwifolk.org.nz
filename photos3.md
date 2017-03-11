@@ -10,7 +10,7 @@ permalink: /resources/photos3.html
 
 <center>
 
-<img border="1" bcolor="black" src="/photos/dave_and_robert.jpg" />
+<img border="1" bcolor="black" src="/images/photos/dave_and_robert.jpg" />
 
 David Cloughley (playing hammered dulcimer) and son Robert (playing
 fiddle). Cardrona, October 1983.
@@ -19,7 +19,7 @@ fiddle). Cardrona, October 1983.
 <br />
 <br />
 
-<img border="1" bcolor="black" src="/photos/jeremy_and_barrie.jpg" />
+<img border="1" bcolor="black" src="/images/photos/jeremy_and_barrie.jpg" />
 
 Jeremy Brookes (L) and Barrie MacDonald (R) at Cardrona, March 1979.
 <br />
@@ -27,7 +27,7 @@ Jeremy Brookes (L) and Barrie MacDonald (R) at Cardrona, March 1979.
 <br />
 <br />
 
-<img border="1" bcolor="black" src="/photos/GMBBB.jpg" />
+<img border="1" bcolor="black" src="/images/photos/GMBBB.jpg" />
 
 Ginger Minge Binge Bush Band. October 1978. Back Row: Martin Simpson, Rob
 Doesburg, Peter Walton, Jono Lonie, Marcus Turner. Front Row: Adie Walton,
@@ -37,7 +37,7 @@ Trish Davidson.
 <br />
 <br />
 
-<img border="1" bcolor="black" src="/photos/mike_and_phil.jpg" />
+<img border="1" bcolor="black" src="/images/photos/mike_and_phil.jpg" />
 
 Mike (L) and Phil (R) Garland at the Canterbury Folk Festival, at Diamond
 Harbour, Easter 1979.
@@ -46,7 +46,7 @@ Harbour, Easter 1979.
 <br />
 <br />
 
-<img border="1" bcolor="black" src="/photos/Chch1.jpg" />
+<img border="1" bcolor="black" src="/images/photos/Chch1.jpg" />
 
 Description from Frank Povah: "It's from the NZ Women's Weekly (I kid you
 not) sometime in the 70s at the old Canterbury University soon after the
@@ -58,7 +58,7 @@ remember) are Sue Lutkenhouse (closest to Frank S) and Peter Meredith[?]"
 <br />
 <br />
 
-<img border="1" bcolor="black" src="/photos/Frank.jpg" />
+<img border="1" bcolor="black" src="/images/photos/Frank.jpg" />
 
 Frank Povah
 
