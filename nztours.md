@@ -33,10 +33,9 @@ Venues
 ------
 
 Apart from <a href="clubs.html">folk clubs</a>, the following contacts will
-sometimes arrange paid concerts for folk performers. (A map of New Zealand is
-available at
-<a href="http://www.govt.nz/static/map.php">http://www.govt.nz/static/map.php</a>.)
+sometimes arrange paid concerts for folk performers.
 
+(A map of New Zealand is available <a href="{{ site.map_url }}"> here</a>.
 
 
 <strong>Mangaweka</strong>
