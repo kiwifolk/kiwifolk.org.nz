@@ -22,4 +22,4 @@ Using the website <https://github.com/kiwifolk/kiwifolk.org.nz> you can issue a
     * You should see a message like: *asjl  wants to merge 1 commit into gh-pages from master*
   * Choose **Merge pull request** and then **Confirm Merge**
     * You should see a message like: *asjl  merged 1 commit into gh-pages from master 12 seconds ago*
-  * Check the website <{{ site.github.url }}> to make sure the changes are correct.
+  * Check the website <http://kiwifolk.lpnz.org> to make sure the changes are correct.
