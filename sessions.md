@@ -12,7 +12,7 @@ permalink: /live_music/sessions.html
 If any information here needs to be updated please
 <a href="MAILTO:mikem@kiwifolk.com">let me know</a>.
 
-A map of New Zealand is available <a href="{{ site.map_url }}"> here</a>.
+A map of New Zealand is available <a target="_blank" href="{{ site.map_url }}"> here</a>.
 
 ## North Island
 
