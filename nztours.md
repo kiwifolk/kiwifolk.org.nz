@@ -44,7 +44,7 @@ available at
 <br />We are a small venue sitting on the banks of the Rangitikei River, a spectacular outdoor location gathering
 guests from the Rangitikei and Manawatu. We run an afternoon of live music every Sunday throughout the summer and
 are always looking for visiting musicians of all varieties of music to entertain.
-<br />Email address <a href="MAILTO:info(at)mangaweka.co.nz">info(at)mangaweka.co.nz</a>
+<br />Email address <a href="MAILTO:info@mangaweka.co.nz">info@mangaweka.co.nz</a>
 
 
 <strong>Wellington</strong>
@@ -54,7 +54,7 @@ are always looking for visiting musicians of all varieties of music to entertain
 <br />Lower Hutt
 <br />Phone (04)586-1500
 <br />Fax (04)586-1501
-<br />Email address  <a href="MAILTO:mcguinness-classics-inc(at)@xtra.co.nz">mcguinness-classics-inc(at)@xtra.co.nz</a>
+<br />Email address  <a href="MAILTO:mcguinness-classics-inc@@xtra.co.nz">mcguinness-classics-inc@@xtra.co.nz</a>
 <br />Web Site
 <a href="http://www.mcguinnessclassics.co.nz">http://www.mcguinnessclassics.co.nz</a>
 <br />Roy McGuinness hosts concerts of folk and roots music from time to
@@ -63,7 +63,7 @@ time in his indoor showroom for classic cars.
 
 
 <strong>Dave Barnes: Tawa</strong>
-<br /><a href="MAILTO:david.barnes(at)xtra.co.nz">david.barnes(at)xtra.co.nz</a>
+<br /><a href="MAILTO:david.barnes@xtra.co.nz">david.barnes@xtra.co.nz</a>
 
 
 
@@ -74,7 +74,7 @@ time in his indoor showroom for classic cars.
 
 <strong>Marlborough Sounds</strong>
 <br />Bruce Fergus
-(<a href="MAILTO:whirlwood(at)clear.net.nz">whirlwood(at)clear.net.nz</a>)
+(<a href="MAILTO:whirlwood@clear.net.nz">whirlwood@clear.net.nz</a>)
 
 
 
@@ -83,7 +83,7 @@ time in his indoor showroom for classic cars.
 <br />703 Old West Coast Rd
 <br />RD 1 West Melton
 <br />Christchurch 7671
-<br />Email: <a href="mailto:nutpointgallery(at)hotmail.com">nutpointgallery(at)hotmail.com</a>
+<br />Email: <a href="mailto:nutpointgallery@hotmail.com">nutpointgallery@hotmail.com</a>
 <br />Web Site: <a href="http://www.nutpointgallery.com/">http://www.nutpointgallery.com/</a>
 
 
@@ -91,12 +91,12 @@ time in his indoor showroom for classic cars.
 <strong>Lyttleton</strong>
 <br />Harbour Light - Licensed Entertainment & Function Venue,
 24 London Street, Lyttelton 8012, Canterbury, NZ.
-(<a href="MAILTO:helen(at)harbourlight.co.nz">helen(at)harbourlight.co.nz</a>)
+(<a href="MAILTO:helen@harbourlight.co.nz">helen@harbourlight.co.nz</a>)
 
 
 
 <strong>Geraldine</strong>
-<br />Easy Way Cafe (<a href="MAILTO:easyway(at)xtra.co.nz">easyway(at)xtra.co.nz</a>)
+<br />Easy Way Cafe (<a href="MAILTO:easyway@xtra.co.nz">easyway@xtra.co.nz</a>)
 
 
 
@@ -107,13 +107,13 @@ time in his indoor showroom for classic cars.
 
 <strong>Wanaka/Cardrona</strong>
 <br />Martin Curtis
-(<a href="MAILTO:curtismr(at)xtra.co.nz">curtismr(at)xtra.co.nz</a>)
+(<a href="MAILTO:curtismr@xtra.co.nz">curtismr@xtra.co.nz</a>)
 
 
 
 <strong>Hawea</strong>
 <br />Claire Easterbrook
-(<a href="MAILTO:homestay(at)@mtaspiring.school.nz">homestay(at)@mtaspiring.school.nz</a>)
+(<a href="MAILTO:homestay@@mtaspiring.school.nz">homestay@@mtaspiring.school.nz</a>)
 
 Sympathetic Sound Systems
 -------------------------
