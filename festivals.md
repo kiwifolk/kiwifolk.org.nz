@@ -4,6 +4,7 @@ title: New Zealand Folk and Acoustic Music Festivals
 permalink: /live_music/festivals.html
 ---
 
+A map of New Zealand is available <a target="_blank" href="{{ site.map_url }}"> here</a>.
 
 <strong>Aongatete Festival &#34;Folk under the Figs&#34;</strong>
 <br />Where: 156 Work Road, Katikati
