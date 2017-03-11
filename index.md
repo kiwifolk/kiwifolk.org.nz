@@ -18,14 +18,6 @@ Mike Moroney (<a href="MAILTO:{{ site.email }}">{{ site.email }}</a>)
 </p>
 
 <p>
-<font size="1">
-NOTE: IN AN ATTEMPT TO FOIL SPAMMERS, THE @ SYMBOL IN ALL EMAIL ADDRESSES
-ON THIS SITE HAS BEEN REPLACED WITH @. YOU'LL NEED TO CHANGE THE @ TO @ WHEN SENDING AN
-EMAIL.
-</font>
-</p>
-
-<p>
 <strong>For Open Mics, see <a href="/live_music/sessions.html">SESSIONS</a></strong>
 </p>
 
