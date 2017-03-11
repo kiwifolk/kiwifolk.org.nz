@@ -8,7 +8,7 @@ permalink: /live_music/clubs.html
 
 If any information here needs to be updated please <a href="MAILTO:{{ site.email }}">let me know</a>.
 
-(A map of New Zealand is available <a href="{{ site.map_url }}"> here</a>.
+A map of New Zealand is available <a href="{{ site.map_url }}"> here</a>.
 
 ## NZ WIDE
 
